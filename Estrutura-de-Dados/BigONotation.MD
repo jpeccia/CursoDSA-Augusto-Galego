@@ -16,7 +16,7 @@ Ela não mede diretamente a performance, mas sim o crescimento do tempo de execu
 |----------|-------------------------------------------|
 | `O(1)`   | **Tempo constante** – Independe do tamanho da entrada. |
 | `O(log n)` | **Crescimento logarítmico** – Aumenta lentamente conforme a entrada cresce. |
-| `O(n log n)` | **Crescimento log-linear** – Comum em algoritmos eficientes de ordenação. |
+| `O(n log n)` | **Crescimento log-linear** – Comum em algoritmos eficientes de ordenação(sorting, divide and conquer). |
 | `O(n²)` | **Crescimento quadrático** – O tempo de execução cresce exponencialmente com a entrada. |
 | `O(2^n)` | **Crescimento exponencial** – O tempo dobra a cada incremento da entrada. |
 
